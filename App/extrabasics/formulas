@@ -1,0 +1,16 @@
+sample variance|s2=Σ(xi-x̅)2/n-1
+population variance|σ2 = Σ(xi-μ̅)2/N
+percent2Fraction|%/100
+fraction2Percent|nominator*100/denominator*1
+percentIncrease|%*n/100-1
+percentDecrease|(100-%/100)*(n/1)
+comparingAsPercent|(x/Σ)*(100/1)
+percent2Quantity|(%/100)*(quantity/1)
+originalPriceFromPercent|original/(100+-percent)*100/1
+increaseDecreaseAsPercent|(orig-price/orig)*100/1
+σ2|sigma squared
+x̅|xbar
+μ̅|mu
+s2|s squared
+Σ|sigma
+simplifyRatios|F1(r/1*d/d+n/d):F2(r/1*d/d+n/d);F1(d/lcm)*n/(d/lcm)*d:F1(d/lcm)*n/(d/lcm);F1.numerator/hcf:F2.numerator/hcf		
